@@ -1,0 +1,139 @@
+Valve Software - captioncompiler.exe (Aug 26 2014)
+--- Close Caption File compiler ---
+gamedir[ D:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\ ]
+infile[ resource\closecaptions_english.txt ]
+outfile[ resource\closecaptions_english.dat ]
+    Compiling Captions for 'resource\closecaptions_english.txt'...
+Processing: '          Demoman.PainSevere01' = '<clr:255,255,255>DEMOMAN HURT'
+Processing: '          Demoman.PainSevere02' = '<clr:255,255,255>DEMOMAN HURT'
+Processing: '          Demoman.PainSevere03' = '<clr:255,255,255>DEMOMAN HURT'
+Processing: '          Demoman.PainSevere04' = '<clr:255,255,255>DEMOMAN HURT'
+Processing: '          Demoman.PainSevere05' = '<clr:255,255,255>DEMOMAN HURT'
+Processing: '          Demoman.PainSevere06' = '<clr:255,255,255>DEMOMAN HURT'
+Processing: '          Demoman.PainSevere07' = '<clr:255,255,255>DEMOMAN HURT'
+Processing: '  Engineer.AutoAttackedBySpy01' = '<clr:25,150,185>TELEPORTER BEING SAPPED'
+Processing: '  Engineer.AutoAttackedBySpy02' = '<clr:25,150,185>DISPENSER BEING SAPPED'
+Processing: '  Engineer.AutoAttackedBySpy03' = '<clr:25,150,185>SENTRY BEING SAPPED'
+Processing: 'Engineer.AutobuildingDispenser' = '<clr:160,205,25>DISPENSER GOING UP'
+Processing: 'Engineer.AutobuildingDispenser' = '<clr:160,205,25>DISPENSER GOING UP'
+Processing: ' Engineer.AutobuildingSentry01' = '<clr:160,205,25>SENTRY GOING UP'
+Processing: ' Engineer.AutobuildingSentry02' = '<clr:160,205,25>SENTRY GOING UP'
+Processing: 'Engineer.AutobuildingTeleporte' = '<clr:160,205,25>TELEPORTER GOING UP'
+Processing: 'Engineer.AutobuildingTeleporte' = '<clr:160,205,25>TELEPORTER GOING UP'
+Processing: 'Engineer.AutoDestroyedDispense' = '<clr:25,150,185>DISPENSER DESTROYED'
+Processing: 'Engineer.AutoDestroyedSentry01' = '<clr:25,150,185>SENTRY DESTROYED'
+Processing: '         Engineer.PainSevere01' = '<clr:255,255,255>ENGINEER HURT'
+Processing: '         Engineer.PainSevere02' = '<clr:255,255,255>ENGINEER HURT'
+Processing: '         Engineer.PainSevere03' = '<clr:255,255,255>ENGINEER HURT'
+Processing: '         Engineer.PainSevere04' = '<clr:255,255,255>ENGINEER HURT'
+Processing: '         Engineer.PainSevere05' = '<clr:255,255,255>ENGINEER HURT'
+Processing: '         Engineer.PainSevere06' = '<clr:255,255,255>ENGINEER HURT'
+Processing: '         Engineer.PainSevere07' = '<clr:255,255,255>ENGINEER HURT'
+Processing: '       Engineer_SentryMoving01' = '<clr:160,205,25>ENGINEER MOVING BUILDING'
+Processing: '       Engineer_SentryMoving02' = '<clr:160,205,25>ENGINEER MOVING BUILDING'
+Processing: '       Engineer_SentryMoving03' = '<clr:160,205,25>ENGINEER MOVING BUILDING'
+Processing: '      Engineer_SentryPacking01' = '<clr:160,205,25>ENGINEER PACKED BUILDING'
+Processing: '      Engineer_SentryPacking02' = '<clr:160,205,25>ENGINEER PACKED BUILDING'
+Processing: '      Engineer_SentryPacking03' = '<clr:160,205,25>ENGINEER PACKED BUILDING'
+Processing: '     Engineer_SentryPlanting01' = '<clr:160,205,25>ENGINEER PLANTED BUILDING'
+Processing: '     Engineer_SentryPlanting02' = '<clr:160,205,25>ENGINEER PLANTED BUILDING'
+Processing: '     Engineer_SentryPlanting03' = '<clr:160,205,25>ENGINEER PLANTED BUILDING'
+Processing: '            Heavy.PainSevere01' = '<clr:255,255,255>HEAVY HURT'
+Processing: '            Heavy.PainSevere02' = '<clr:255,255,255>HEAVY HURT'
+Processing: '            Heavy.PainSevere03' = '<clr:255,255,255>HEAVY HURT'
+Processing: '            Heavy.PainSevere04' = '<clr:255,255,255>HEAVY HURT'
+Processing: '            Heavy.PainSevere05' = '<clr:255,255,255>HEAVY HURT'
+Processing: '            Heavy.PainSevere06' = '<clr:255,255,255>HEAVY HURT'
+Processing: '            Heavy.PainSevere07' = '<clr:255,255,255>HEAVY HURT'
+Processing: '       Medic.AutoChargeReady01' = '<clr:25,150,185>MEDIC CHARGED'
+Processing: '       Medic.AutoChargeReady02' = '<clr:25,150,185>MEDIC CHARGED'
+Processing: '       Medic.AutoChargeReady03' = '<clr:25,150,185>MEDIC CHARGED'
+Processing: '            Medic.PainSevere01' = '<clr:160,205,25>MEDIC HURT'
+Processing: '            Medic.PainSevere02' = '<clr:160,205,25>MEDIC HURT'
+Processing: '            Medic.PainSevere03' = '<clr:160,205,25>MEDIC HURT'
+Processing: '            Medic.PainSevere04' = '<clr:160,205,25>MEDIC HURT'
+Processing: '            Medic.PainSevere05' = '<clr:160,205,25>MEDIC HURT'
+Processing: '            Medic.PainSevere06' = '<clr:160,205,25>MEDIC HURT'
+Processing: '            Medic.PainSevere07' = '<clr:160,205,25>MEDIC HURT'
+Processing: '             Medic.PainSharp01' = '<clr:160,205,25>MEDIC HIT'
+Processing: '             Medic.PainSharp02' = '<clr:160,205,25>MEDIC HIT'
+Processing: '             Medic.PainSharp03' = '<clr:160,205,25>MEDIC HIT'
+Processing: '             Medic.PainSharp04' = '<clr:160,205,25>MEDIC HIT'
+Processing: '             Medic.PainSharp05' = '<clr:160,205,25>MEDIC HIT'
+Processing: '             Medic.PainSharp06' = '<clr:160,205,25>MEDIC HIT'
+Processing: '             Medic.PainSharp07' = '<clr:160,205,25>MEDIC HIT'
+Processing: '             Medic.PainSharp08' = '<clr:160,205,25>MEDIC HIT'
+Processing: '      Medic.SpecialCompleted04' = '<clr:25,150,185>UBER ACTIVATED'
+Processing: '      Medic.SpecialCompleted05' = '<clr:25,150,185>UBER ACTIVATED'
+Processing: '      Medic.SpecialCompleted06' = '<clr:25,150,185>UBER ACTIVATED'
+Processing: '             Pyro.PainSevere01' = '<clr:255,255,255>PYRO HURT'
+Processing: '             Pyro.PainSevere02' = '<clr:255,255,255>PYRO HURT'
+Processing: '             Pyro.PainSevere03' = '<clr:255,255,255>PYRO HURT'
+Processing: '             Pyro.PainSevere04' = '<clr:255,255,255>PYRO HURT'
+Processing: '             Pyro.PainSevere05' = '<clr:255,255,255>PYRO HURT'
+Processing: '             Pyro.PainSevere06' = '<clr:255,255,255>PYRO HURT'
+Processing: '             Pyro.PainSevere07' = '<clr:255,255,255>PYRO HURT'
+Processing: '            Scout.PainSevere01' = '<clr:255,255,255>SCOUT HURT'
+Processing: '            Scout.PainSevere02' = '<clr:255,255,255>SCOUT HURT'
+Processing: '            Scout.PainSevere03' = '<clr:255,255,255>SCOUT HURT'
+Processing: '            Scout.PainSevere04' = '<clr:255,255,255>SCOUT HURT'
+Processing: '            Scout.PainSevere05' = '<clr:255,255,255>SCOUT HURT'
+Processing: '            Scout.PainSevere06' = '<clr:255,255,255>SCOUT HURT'
+Processing: '            Scout.PainSevere07' = '<clr:255,255,255>SCOUT HURT'
+Processing: '           Sniper.PainSevere01' = '<clr:255,255,255>SNIPER HURT'
+Processing: '           Sniper.PainSevere02' = '<clr:255,255,255>SNIPER HURT'
+Processing: '           Sniper.PainSevere03' = '<clr:255,255,255>SNIPER HURT'
+Processing: '           Sniper.PainSevere04' = '<clr:255,255,255>SNIPER HURT'
+Processing: '           Sniper.PainSevere05' = '<clr:255,255,255>SNIPER HURT'
+Processing: '           Sniper.PainSevere06' = '<clr:255,255,255>SNIPER HURT'
+Processing: '           Sniper.PainSevere07' = '<clr:255,255,255>SNIPER HURT'
+Processing: '          Soldier.PainSevere01' = '<clr:255,255,255>SOLDIER HURT'
+Processing: '          Soldier.PainSevere02' = '<clr:255,255,255>SOLDIER HURT'
+Processing: '          Soldier.PainSevere03' = '<clr:255,255,255>SOLDIER HURT'
+Processing: '          Soldier.PainSevere04' = '<clr:255,255,255>SOLDIER HURT'
+Processing: '          Soldier.PainSevere05' = '<clr:255,255,255>SOLDIER HURT'
+Processing: '          Soldier.PainSevere06' = '<clr:255,255,255>SOLDIER HURT'
+Processing: '          Soldier.PainSevere07' = '<clr:255,255,255>SOLDIER HURT'
+Processing: '              Spy.PainSevere01' = '<clr:255,255,255>SPY HURT'
+Processing: '              Spy.PainSevere02' = '<clr:255,255,255>SPY HURT'
+Processing: '              Spy.PainSevere03' = '<clr:255,255,255>SPY HURT'
+Processing: '              Spy.PainSevere04' = '<clr:255,255,255>SPY HURT'
+Processing: '              Spy.PainSevere05' = '<clr:255,255,255>SPY HURT'
+Processing: '              Spy.PainSevere06' = '<clr:255,255,255>SPY HURT'
+Processing: '              Spy.PainSevere07' = '<clr:255,255,255>SPY HURT'
+Found 97 strings in 'resource\closecaptions_english.txt'
+Longest string 'Engineer_SentryPlanting01' = (84) bytes average(84.454)
+1 blocks (8192 bytes each), 2302 bytes wasted (2302.000 per block average), total bytes 8192
+directory size 97 entries, 1164 bytes, data size 8192 bytes
+000:  (                      Medic.PainSevere03) hash(000000003106086), block(0000), offset(3058), len(0054) <clr:160,205,25>MEDIC HURT001:  (                Medic.SpecialCompleted06) hash(000000007766344), block(0000), offset(3868), len(0062) <clr:25,150,185>UBER ACTIVATED
+002:  (                   Engineer.PainSevere06) hash(000000018675741), block(0000), offset(1510), len(0062) <clr:255,255,255>ENGINEER HURT003:  (                       Pyro.PainSevere07) hash(000000019347934), block(0000), offset(4254), len(0054) <clr:255,255,255>PYRO HURT004:  (                       Pyro.PainSevere03) hash(000000105577927), block(0000), offset(4038), len(0054) <clr:255,255,255>PYRO HURT005:  (                   Engineer.PainSevere02) hash(000000108084228), block(0000), offset(1262), len(0062) <clr:255,255,255>ENGINEER HURT
+006:  (                      Medic.PainSevere07) hash(000000121807167), block(0000), offset(3274), len(0054) <clr:160,205,25>MEDIC HURT007:  (                     Sniper.PainSevere04) hash(000000184574700), block(0000), offset(4874), len(0058) <clr:255,255,255>SNIPER HURT
+008:  (                    Soldier.PainSevere01) hash(000000291570127), block(0000), offset(5106), len(0060) <clr:255,255,255>SOLDIER HURT009:  (                    Soldier.PainSevere05) hash(000000369935830), block(0000), offset(5346), len(0060) <clr:255,255,255>SOLDIER HURT
+010:  (                 Engineer_SentryMoving02) hash(000000430334466), block(0000), offset(1716), len(0082) <clr:160,205,25>ENGINEER MOVING BUILDING011:  (                        Spy.PainSevere04) hash(000000462119064), block(0000), offset(5682), len(0052) <clr:255,255,255>SPY HURT
+012:  (       Engineer.AutobuildingTeleporter02) hash(000000547397337), block(0000), offset(0990), len(0072) <clr:160,205,25>TELEPORTER GOING UP013:  (                      Scout.PainSevere05) hash(000000566604336), block(0000), offset(4532), len(0056) <clr:255,255,255>SCOUT HURT014:  (                    Demoman.PainSevere05) hash(000000575272266), block(0000), offset(0240), len(0060) <clr:255,255,255>DEMOMAN HURT015:  (                    Demoman.PainSevere01) hash(000000623128915), block(0000), offset(0000), len(0060) <clr:255,255,255>DEMOMAN HURT
+016:  (                      Scout.PainSevere01) hash(000000648574505), block(0000), offset(4308), len(0056) <clr:255,255,255>SCOUT HURT017:  (                Engineer_SentryPacking03) hash(000000654517646), block(0000), offset(2044), len(0082) <clr:160,205,25>ENGINEER PACKED BUILDING
+018:  (        Engineer.AutobuildingDispenser02) hash(000000768478227), block(0000), offset(0720), len(0070) <clr:160,205,25>DISPENSER GOING UP019:  (            Engineer.AutoAttackedBySpy01) hash(000000799131594), block(0000), offset(0420), len(0080) <clr:25,150,185>TELEPORTER BEING SAPPED
+020:  (                       Medic.PainSharp01) hash(000000818949270), block(0000), offset(3328), len(0052) <clr:160,205,25>MEDIC HIT
+021:  (                       Medic.PainSharp05) hash(000000935192719), block(0000), offset(3536), len(0052) <clr:160,205,25>MEDIC HIT
+022:  (                      Heavy.PainSevere03) hash(000000987980786), block(0000), offset(2490), len(0056) <clr:255,255,255>HEAVY HURT023:  (                      Heavy.PainSevere07) hash(000001032759275), block(0000), offset(2714), len(0056) <clr:255,255,255>HEAVY HURT024:  (                       Medic.PainSharp04) hash(000001085986841), block(0000), offset(3484), len(0052) <clr:160,205,25>MEDIC HIT
+025:  (                       Medic.PainSharp08) hash(000001225561138), block(0000), offset(3692), len(0052) <clr:160,205,25>MEDIC HIT
+026:  (                      Heavy.PainSevere06) hash(000001250531197), block(0000), offset(2658), len(0056) <clr:255,255,255>HEAVY HURT027:  (                      Heavy.PainSevere02) hash(000001306809188), block(0000), offset(2434), len(0056) <clr:255,255,255>HEAVY HURT028:  (                Engineer_SentryPacking02) hash(000001342444824), block(0000), offset(1962), len(0082) <clr:160,205,25>ENGINEER PACKED BUILDING
+029:  (                    Demoman.PainSevere04) hash(000001431225820), block(0000), offset(0180), len(0060) <clr:255,255,255>DEMOMAN HURT
+030:  (                      Scout.PainSevere04) hash(000001455588006), block(0000), offset(4476), len(0056) <clr:255,255,255>SCOUT HURT031:  (               Engineer_SentryPlanting01) hash(000001511482385), block(0000), offset(2126), len(0084) <clr:160,205,25>ENGINEER PLANTED BUILDING032:  (                    Soldier.PainSevere04) hash(000001628173632), block(0000), offset(5286), len(0060) <clr:255,255,255>SOLDIER HURTj
+033:  (           Engineer.AutobuildingSentry02) hash(000001634963662), block(0000), offset(0854), len(0064) <clr:160,205,25>SENTRY GOING UP034:  (                        Spy.PainSevere01) hash(000001809945623), block(0000), offset(5526), len(0052) <clr:255,255,255>SPY HURT
+035:  (                        Spy.PainSevere05) hash(000001821134862), block(0000), offset(5734), len(0052) <clr:255,255,255>SPY HURT
+036:  (                 Engineer_SentryMoving03) hash(000001856066196), block(0000), offset(1798), len(0082) <clr:160,205,25>ENGINEER MOVING BUILDING037:  (                      Medic.PainSevere06) hash(000001883607465), block(0000), offset(3220), len(0054) <clr:160,205,25>MEDIC HURT038:  (                       Pyro.PainSevere02) hash(000001900924241), block(0000), offset(3984), len(0054) <clr:255,255,255>PYRO HURT039:  (                   Engineer.PainSevere03) hash(000001903561874), block(0000), offset(1324), len(0062) <clr:255,255,255>ENGINEER HURT040:  (                 Medic.AutoChargeReady01) hash(000001919236241), block(0000), offset(2770), len(0060) <clr:25,150,185>MEDIC CHARGED
+041:  (                   Engineer.PainSevere07) hash(000001981532299), block(0000), offset(1572), len(0062) <clr:255,255,255>ENGINEER HURT
+042:  (                       Pyro.PainSevere06) hash(000001981811016), block(0000), offset(4200), len(0054) <clr:255,255,255>PYRO HURT043:  (          Engineer.AutoDestroyedSentry01) hash(000001997546472), block(0000), offset(1134), len(0066) <clr:25,150,185>SENTRY DESTROYED044:  (                      Medic.PainSevere02) hash(000001999132080), block(0000), offset(3004), len(0054) <clr:160,205,25>MEDIC HURT045:  (                     Sniper.PainSevere01) hash(000002070582883), block(0000), offset(4700), len(0058) <clr:255,255,255>SNIPER HURT
+046:  (                     Sniper.PainSevere05) hash(000002080854650), block(0000), offset(4932), len(0058) <clr:255,255,255>SNIPER HURT
+047:  (                 Engineer_SentryMoving01) hash(000002158965688), block(0000), offset(1634), len(0082) <clr:160,205,25>ENGINEER MOVING BUILDING
+048:  (       Engineer.AutoDestroyedDispenser01) hash(000002179007898), block(0000), offset(1062), len(0072) <clr:25,150,185>DISPENSER DESTROYED:049:  (                        Spy.PainSevere07) hash(000002189570338), block(0000), offset(5838), len(0052) <clr:255,255,255>SPY HURT
+050:  (                        Spy.PainSevere03) hash(000002247095611), block(0000), offset(5630), len(0052) <clr:255,255,255>SPY HURT
+051:  (                    Soldier.PainSevere02) hash(000002288537717), block(0000), offset(5166), len(0060) <clr:255,255,255>SOLDIER HURT052:  (                    Soldier.PainSevere06) hash(000002399507564), block(0000), offset(5406), len(0060) <clr:255,255,255>SOLDIER HURT053:  (                     Sniper.PainSevere07) hash(000002450076502), block(0000), offset(5048), len(0058) <clr:255,255,255>SNIPER HURT054:  (                     Sniper.PainSevere03) hash(000002506422095), block(0000), offset(4816), len(0058) <clr:255,255,255>SNIPER HURT055:  (                   Engineer.PainSevere05) hash(000002551556519), block(0000), offset(1448), len(0062) <clr:255,255,255>ENGINEER HURT056:  (                       Pyro.PainSevere04) hash(000002553178212), block(0000), offset(4092), len(0054) <clr:255,255,255>PYRO HURT057:  (                Medic.SpecialCompleted05) hash(000002575290610), block(0000), offset(3806), len(0062) <clr:25,150,185>UBER ACTIVATED058:  (                 Medic.AutoChargeReady03) hash(000002624281021), block(0000), offset(2890), len(0060) <clr:25,150,185>MEDIC CHARGED
+059:  (                      Medic.PainSevere04) hash(000002655776901), block(0000), offset(3112), len(0054) <clr:160,205,25>MEDIC HURT060:  (                   Engineer.PainSevere01) hash(000002675469758), block(0000), offset(1200), len(0062) <clr:255,255,255>ENGINEER HURT061:  (                      Heavy.PainSevere04) hash(000002760373841), block(0000), offset(2546), len(0056) <clr:255,255,255>HEAVY HURT062:  (                       Medic.PainSharp02) hash(000002849602860), block(0000), offset(3380), len(0052) <clr:160,205,25>MEDIC HIT
+063:  (                       Medic.PainSharp06) hash(000002931079477), block(0000), offset(3588), len(0052) <clr:160,205,25>MEDIC HIT
+064:  (               Engineer_SentryPlanting03) hash(000003021538621), block(0000), offset(2294), len(0084) <clr:160,205,25>ENGINEER PLANTED BUILDING:065:  (        Engineer.AutobuildingDispenser01) hash(000003032964521), block(0000), offset(0650), len(0070) <clr:160,205,25>DISPENSER GOING UP066:  (            Engineer.AutoAttackedBySpy02) hash(000003064501872), block(0000), offset(0500), len(0078) <clr:25,150,185>DISPENSER BEING SAPPED067:  (                      Scout.PainSevere06) hash(000003100435338), block(0000), offset(4588), len(0056) <clr:255,255,255>SCOUT HURT068:  (       Engineer.AutobuildingTeleporter01) hash(000003114913635), block(0000), offset(0918), len(0072) <clr:160,205,25>TELEPORTER GOING UP069:  (                    Demoman.PainSevere06) hash(000003141575920), block(0000), offset(0300), len(0060) <clr:255,255,255>DEMOMAN HURT070:  (                    Demoman.PainSevere02) hash(000003157090537), block(0000), offset(0060), len(0060) <clr:255,255,255>DEMOMAN HURT071:  (                      Scout.PainSevere02) hash(000003215009683), block(0000), offset(4364), len(0056) <clr:255,255,255>SCOUT HURT072:  (            Engineer.AutoAttackedBySpy03) hash(000003249514214), block(0000), offset(0578), len(0072) <clr:25,150,185>SENTRY BEING SAPPED073:  (               Engineer_SentryPlanting02) hash(000003273536939), block(0000), offset(2210), len(0084) <clr:160,205,25>ENGINEER PLANTED BUILDING074:  (                      Scout.PainSevere03) hash(000003366328069), block(0000), offset(4420), len(0056) <clr:255,255,255>SCOUT HURT075:  (                Engineer_SentryPacking01) hash(000003373089954), block(0000), offset(1880), len(0082) <clr:160,205,25>ENGINEER PACKED BUILDING076:  (                    Demoman.PainSevere03) hash(000003408547967), block(0000), offset(0120), len(0060) <clr:255,255,255>DEMOMAN HURT077:  (                    Demoman.PainSevere07) hash(000003427243110), block(0000), offset(0360), len(0060) <clr:255,255,255>DEMOMAN HURT078:  (                      Scout.PainSevere07) hash(000003486241564), block(0000), offset(4644), len(0056) <clr:255,255,255>SCOUT HURT079:  (                      Heavy.PainSevere05) hash(000003548432071), block(0000), offset(2602), len(0056) <clr:255,255,255>HEAVY HURT080:  (                      Heavy.PainSevere01) hash(000003572302558), block(0000), offset(2378), len(0056) <clr:255,255,255>HEAVY HURT081:  (                       Medic.PainSharp07) hash(000003652422051), block(0000), offset(3640), len(0052) <clr:160,205,25>MEDIC HIT
+082:  (                       Medic.PainSharp03) hash(000003739110842), block(0000), offset(3432), len(0052) <clr:160,205,25>MEDIC HIT
+083:  (                     Sniper.PainSevere02) hash(000003798190041), block(0000), offset(4758), len(0058) <clr:255,255,255>SNIPER HURT084:  (                     Sniper.PainSevere06) hash(000003842900928), block(0000), offset(4990), len(0058) <clr:255,255,255>SNIPER HURT085:  (                       Pyro.PainSevere01) hash(000003896810731), block(0000), offset(3930), len(0054) <clr:255,255,255>PYRO HURT086:  (                      Medic.PainSevere05) hash(000003914121235), block(0000), offset(3166), len(0054) <clr:160,205,25>MEDIC HURT087:  (                 Medic.AutoChargeReady02) hash(000003949750571), block(0000), offset(2830), len(0060) <clr:25,150,185>MEDIC CHARGED088:  (                      Medic.PainSevere01) hash(000003995141130), block(0000), offset(2950), len(0054) <clr:160,205,25>MEDIC HURT089:  (                Medic.SpecialCompleted04) hash(000004000899172), block(0000), offset(3744), len(0062) <clr:25,150,185>UBER ACTIVATED090:  (                   Engineer.PainSevere04) hash(000004010973489), block(0000), offset(1386), len(0062) <clr:255,255,255>ENGINEER HURT091:  (                       Pyro.PainSevere05) hash(000004012464370), block(0000), offset(4146), len(0054) <clr:255,255,255>PYRO HURT092:  (                        Spy.PainSevere02) hash(000004075341229), block(0000), offset(5578), len(0052) <clr:255,255,255>SPY HURT
+093:  (                        Spy.PainSevere06) hash(000004119134644), block(0000), offset(5786), len(0052) <clr:255,255,255>SPY HURT
+094:  (                    Soldier.PainSevere07) hash(000004160922874), block(0000), offset(5466), len(0060) <clr:255,255,255>SOLDIER HURT095:  (           Engineer.AutobuildingSentry01) hash(000004168794484), block(0000), offset(0790), len(0064) <clr:160,205,25>SENTRY GOING UP096:  (                    Soldier.PainSevere03) hash(000004285489379), block(0000), offset(5226), len(0060) <clr:255,255,255>SOLDIER HURT
